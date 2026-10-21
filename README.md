@@ -77,10 +77,8 @@ Minimum supported Home Assistant version: `2024.8.0`.
 ### HACS (recommended)
 
 1. Open HACS in your Home Assistant instance.
-2. Go to **Integrations** → **⋮** → **Custom repositories**.
-3. Add `https://github.com/Jordi-14/homeassistant_salus` as an **Integration**.
-4. Search for **Salus iT600** and install it.
-5. Restart Home Assistant.
+2. Search for **Salus iT600** and install it.
+3. Restart Home Assistant.
 
 ### Manual
 
